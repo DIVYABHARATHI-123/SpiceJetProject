@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="SpiceJet Booking Test Suite">
+  <test name="SpiceJet Booking Tests">
+    <classes>
+      <class name="spiceJetTest.SpiceJetBookingTest" />
+    </classes>
+  </test>
+</suite>
